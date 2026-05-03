@@ -15,3 +15,4 @@ gcc main.c -o shell
 ./shell
 
 ## Author
+Raja Sherina T
